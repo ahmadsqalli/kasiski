@@ -28,4 +28,7 @@ The library contains the most known ciphers and some core cryptoanalysis functio
 ### Installation
 
 ```bash
-pip install .
+git clone https://github.com/ahmadsqalli/kasiski.git
+cd kasiski
+pip install -e .
+```
