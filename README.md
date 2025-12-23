@@ -1,6 +1,6 @@
 # 🗝️ Kasiski - Cryptographic Toolkit for Python
 
-A Python library for classical cryptography, frequency analysis, and cryptanalysis. Named after [Friedrich Kasiski](https://en.wikipedia.org/wiki/Friedrich_Kasiski), the father of modern cryptanalysis.
+A Python library for classical cryptography, frequency analysis, and cryptanalysis. Named after [Friedrich Kasiski](https://en.wikipedia.org/wiki/Friedrich_Kasiski).
 The library contains the most known ciphers and some core cryptoanalysis functions, but many more ciphers and functions will be added in the next update.
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -32,3 +32,4 @@ git clone https://github.com/ahmadsqalli/kasiski.git
 cd kasiski
 pip install -e .
 ```
+
