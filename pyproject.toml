@@ -1,0 +1,19 @@
+[project]
+name = "Kasiski"
+version = "1.0.0"
+authors = [
+  { name="Ahmed SQALLI HOUSSAINI", email="ahmad.lifad@gmail.com" },
+]
+description = "A Python library for classical cryptography, frequency analysis, and cryptanalysis."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+"Homepage" = "https://github.com/ahmadsqalli/Kasiski"
+"Bug Tracker" = "https://github.com/ahmadsqalli/Kasiski/issues"
